@@ -1,9 +1,9 @@
 # Meu primero projeto
 
 ## HTML
-- H 
-- T: 
-- M:
-- -L:
+- H: Hyper
+- T: Text
+- M: Markup
+- L: Language
 
 ## CSS
